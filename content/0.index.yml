@@ -5,7 +5,7 @@ navigation: false
 hero:
   title: Hash AI
   description: Crypto Trading Advisor | Strategy, Planning, Execution | Inspired by JARVIS from Iron Man | HashAI © 2024 by BlockHash AI is licensed under CC BY-NC-ND 4.0
-    label: 
+    label: HashAI
     to: https://ai.blockhash.pro
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
